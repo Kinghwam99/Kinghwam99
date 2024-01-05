@@ -1,5 +1,5 @@
 [
 {
-"Password" : "ᴘɪɴᴋ"
+"Password" : "50LAK"
 }
 ]
